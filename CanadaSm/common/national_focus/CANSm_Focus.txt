@@ -1,0 +1,67 @@
+focus_tree = {
+    id = CAN_focus
+
+    country = {
+        factor = 0
+        modifier = {
+            add = 10
+            tag = CAN
+    }   }
+
+    default = no
+
+    focus = {
+		icon = GFX_goal_generic_improve_relations
+        id = Canada_Changing_Leader
+        x = 10
+        y = 0
+        cost = 5
+        completion_reward = {
+            add_political_power = 150
+            add_stability = 0.-20
+            set_capital = 470
+            }
+    }
+
+    focus = {
+		icon = GFX_goal_generic_improve_relations
+        id = Canada_Calming_People
+        prerequisite = {focus = Canada_Changing_Leader}
+        x = 10
+        y = 1
+        cost = 5
+        completion_reward = {
+            add_stability = 0.18
+            add_political_power = 50
+            }
+    }
+
+
+    efficient_industry = {
+    picture = "my_spirit_pic"
+    allowed = { always = yes }
+
+    modifier = {
+        army_factory_speed = 0.10   # +10% к производству военных заводов
+        dockyard_speed = 0.05       # +5% к производству верфей
+        civilian_factory_speed = 0.05  # +5% к гражданским заводам
+    }
+}
+
+        focus = {
+		icon = GFX_goal_generic_improve_relations
+        id = Industrial_Revolution
+        prerequisite = {focus = focus1}
+        x = 30
+        y = 0
+        cost = 5
+        completion_reward = {
+            add_tech_bonus = {
+            name = industry_bonus
+            bonus = 1
+            uses = 4
+            category = industry
+            remove_idea = CAN_great_depression_1
+            add_ideas = efficient_industry
+            }
+    }
