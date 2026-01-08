@@ -1,0 +1,30 @@
+KAZ = {
+    male = {
+        names = {
+            Amangeldi Kanat Ermek Bolat Nyrlan Sabit Meryert Bahytzhan Serik Almaz Kairat Dauren Askar Joldaz Morat Timur 
+            Nikolai Victor Ivan Peter Alexander Michael Sergey Vasili Yuri Gregoriy Valentin
+            Heinrich Yakov Andrew Friedrich Boris Vladimir 
+            Magomed Ruslan Abdullah Ravil 
+        }
+        surnames = {
+            Kusainov Ibragimov Serkebayev Syzdikov Zhumabaev Mukanov Ayezov Kasymov Ahmetov Muratov Mambetov Tleylin Sayfyllin
+            Voronin Kovalenko Bondarenko Zaharov Kravchenko Antonov Tkachenko Belov Lisnyak Sokolov Polyakov Shevchenko
+            Berg Miller Schmidt Fisher Gan Tsai Kim Li Pak Shin 
+            Alhanov Hasbullatov Karimov Shakirov Kadyrov
+        }
+    }
+    female = {
+        names = {
+            Meruert Gulnara Bibigul Sholpan Aisyly Kyluash Bayan Aliya Zhanna Manshuk Gulmira Saule Alma Galiya Madina
+            Nina Clavdiya Zinaiyda Lubov Raisa Ludmila Tamara Galina Vera Nadezhda Vera Svetlana Larisa Olga Valentina
+            Irma Marta Frida Berta Alla Rimma Clara Rosa 
+            Fatima Nailyah Gulhabor Leyley Ani 
+        }
+        surnames = {
+            Iskakova Tarakova Baiseitova Aliyeva Syzdikova Nyrlanova Ospanova Tulegenova Ahmetova Esenzhanova Bektasova Muratova
+            Vorobieva Stepanovna Kovaleknova Bondarenkova Zaharova Tkachenkova Belova Savchenko Hohlova
+            Berg Miller Schmidt Fisher Gan Tsai Kim Li Pak Shin
+            Valiyeva Shakirova Karimova Mohhamadova Akopyan 
+        }
+    }
+}

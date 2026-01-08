@@ -25,3 +25,7 @@ add_breakthrough_progress = {
 set_gurantee = KYR 
 set_gurantee = UZB
 
+set_autonomy = {
+    target = KYR
+    autonomous_state = autonomous_srepublic
+}
