@@ -1,4 +1,0 @@
-KAZ = {
-    color = rgb { 77 220 247}
-    color_ui = rgb { 68 127 244 }
-}
