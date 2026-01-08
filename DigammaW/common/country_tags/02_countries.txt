@@ -1,0 +1,4 @@
+CAN = {
+    color = rgb { 255, 0, 43}
+    color_ui = rgb { 244, 68, 103 }
+}

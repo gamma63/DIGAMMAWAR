@@ -1,11 +1,11 @@
-capital = 590 
-oob = "KAZ_1953"
+capital = 470 
+oob = "CAN_1953"
 
-set_research_slots = 2
-set_stability = 0.44
-set_war_support = 0
+set_research_slots = 3
+set_stability = 0.60
+set_war_support = 10
 add_command_power = 5
-add_political_power = 75
+add_political_power = 100
 
 add_breakthrough_progress = {
 	specialization = specialization_land
@@ -20,12 +20,4 @@ add_breakthrough_progress = {
 add_breakthrough_progress = {
 	specialization = specialization_air
 	value = 0.4
-}
-
-set_gurantee = KYR 
-set_gurantee = UZB
-
-set_autonomy = {
-    target = KYR
-    autonomous_state = autonomous_srepublic
 }
