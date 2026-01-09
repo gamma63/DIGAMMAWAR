@@ -1,0 +1,14 @@
+state = {
+    id = 6969
+    name = "STATE_6969" 
+    manpower = 100000
+    
+    history = {
+        owner = FEM
+        add_core_of = FEM
+    }
+
+    provinces = {
+        46 971 79 80 84 82 83 76 81
+    }
+}

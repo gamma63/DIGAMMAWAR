@@ -1,0 +1,38 @@
+ideologies = {
+    socialism = {
+        types = {
+            leninism={
+            }
+            marksism={
+            }
+            goverment={
+            }
+            militarism={
+            }
+            humanism={
+            }
+            bolshevism={
+            }
+        }
+        dynamic_faction_names={
+            "FACTION_SOCIALISM_1"
+            "FACTION_SOCIALISM_2"
+        }
+        color = {207 83 83 }
+        war_impact_on_world_tension=0.05
+        faction_impact_on_world_tension=0.1
+        ai_neutrality=yes
+        rules = {
+            can_force_goverment=yes
+            can_send_volounteers=yes
+            can_puppet=yes
+        }
+        modifiers={
+            research_speed_factor=-0.1
+        }
+        faction_modifiers={
+            
+        }
+    }
+    
+}

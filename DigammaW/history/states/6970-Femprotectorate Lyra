@@ -1,0 +1,14 @@
+state = {
+    id = 6970
+    name = "STATE_6970" 
+    manpower = 100000
+    
+    history = {
+        owner = FPL
+        add_core_of = FPL
+    }
+
+    provinces = {
+        78 766 834
+    }
+}
