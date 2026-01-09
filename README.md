@@ -1,1 +1,2 @@
-# DIGAMMA WAR: Hearts of iron 4 mod
+# DIGAMMA WAR
+## HEARTS OF IRON 4 MOD
