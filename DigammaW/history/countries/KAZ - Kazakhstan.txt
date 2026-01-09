@@ -22,8 +22,8 @@ add_breakthrough_progress = {
 	value = 0.4
 }
 
-set_guarantee = KYR 
-set_guarantee = UZB
+give_guarantee = KYR 
+give_guarantee = UZB
 
 set_autonomy = {
     target = KYR
