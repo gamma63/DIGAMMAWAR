@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 KAZ = {
     color = rgb { 77 220 247}
     color_ui = rgb { 68 127 244 }
@@ -18,3 +19,9 @@ FPX = {
     color = rgb { 128, 0, 1}
     color_ui = rgb { 128, 0, 1 }
 }
+=======
+KAZ = {
+    color = rgb { 77 220 247}
+    color_ui = rgb { 68 127 244 }
+}
+>>>>>>> 70290849d1910074d4ec43a4eb6437dd17698412

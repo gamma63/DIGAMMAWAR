@@ -7,4 +7,4 @@ tags={
 }
 name="Digamma War"
 supported_version="1.17.3.0"
-path="D:/DIGAMMAWAR"
+path="C:/Users/maska/Documents/Paradox Interactive/Hearts of Iron IV/mod/DigammaW"
