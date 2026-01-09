@@ -10,7 +10,7 @@ characters = {
         country_leader ={
             desc = "KAZ_Zhumabai_Shayakhmetov_DESC"
             expire = 1966.10.17
-            ideology = marksism
+            ideology = marxsismleninism
             id = -1
             traits = { } 
         }

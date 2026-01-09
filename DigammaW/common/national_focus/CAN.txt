@@ -9,7 +9,7 @@ focus_tree = {
 		}
 	}
 	
-	defalut = no
+	default = no
 	
 	focus = {
 		id = can_new_politics

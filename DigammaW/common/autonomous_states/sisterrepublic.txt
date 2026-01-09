@@ -1,4 +1,4 @@
-sautonomy_state = {
+autonomy_state = {
 	id = autonomy_srepublic
 	
 	default = no					#Will be a possible option for peace deals

@@ -1,7 +1,7 @@
 ideologies = {
     socialism = {
         types = {
-            marksismleninism={
+            marxsismleninism={
             }
             goverment={
             }
