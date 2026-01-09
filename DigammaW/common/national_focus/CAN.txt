@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 focus_tree = {
 	id = CAN_focus
 	
@@ -52,59 +51,6 @@ focus_tree = {
             uses = 1
             category = industry
 		}
-=======
-focus_tree = {
-	id = CAN_focus
-	
-	country = {
-		factor = 0
-		modifier = {
-			add = 10
-			tag = CAN
-		}
 	}
-	
-	defalut = no
-	
-	focus = {
-		id = can_new_politics
-		x = 16
-		y = 0
-		cost = 10
-		completion_reward = {
-			add_political_power = 200
-			add_stability = -0.50
-		}
 	}
-	
-		focus = {
-		id = can_keep_old_politics
-		x = 20
-		y = 0
-		cost = 10
-		completion_reward = {
-			add_political_power = 10
-			add_stability = 0.09
-		}
-	}
-	
-	
-	
-	
-	
-	
-	
-	focus = {
-		id = industrial_development
-		x = 38
-		y = 1
-		cost = 10
-		completion_reward = {
-		add_tech_bonus = {
-            name = industry_focus_bonus
-            bonus = 1
-            uses = 1
-            category = industry
-		}
->>>>>>> 70290849d1910074d4ec43a4eb6437dd17698412
-	}
+}

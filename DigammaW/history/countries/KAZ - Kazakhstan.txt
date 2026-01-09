@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 capital = 590 
 oob = "KAZ_1953"
 
@@ -32,7 +31,7 @@ set_autonomy = {
 }
 
 set_politics = {
-	ruling_party = socialism
+	ruling_party = communism
 	last_election = "1953.3.5"
 	election_frequency = 0
 	elections_allowed = no ##suspended through duration of war, which is handled via event
@@ -44,36 +43,4 @@ set_popularities = {
 	socialism = 60
 }
 
-=======
-capital = 590 
-oob = "KAZ_1953"
-
-set_research_slots = 2
-set_stability = 0.44
-set_war_support = 0
-add_command_power = 5
-add_political_power = 75
-
-add_breakthrough_progress = {
-	specialization = specialization_land
-	value = 0.3
-}
-
-add_breakthrough_progress = {
-	specialization = specialization_naval
-	value = 0.1
-}
-
-add_breakthrough_progress = {
-	specialization = specialization_air
-	value = 0.4
-}
-
-set_gurantee = KYR 
-set_gurantee = UZB
-
-set_autonomy = {
-    target = KYR
-    autonomous_state = autonomous_srepublic
-}
->>>>>>> 70290849d1910074d4ec43a4eb6437dd17698412
+recruit_character = KAZ_Zhumabai_Shayakhmetov

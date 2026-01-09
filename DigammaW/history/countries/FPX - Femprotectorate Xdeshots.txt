@@ -1,4 +1,4 @@
-capital = 11597
+capital = 1
 oob = "FPX_1953"
 
 set_research_slots = 1

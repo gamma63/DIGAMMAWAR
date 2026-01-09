@@ -1,9 +1,7 @@
 ideologies = {
     socialism = {
         types = {
-            leninism={
-            }
-            marksism={
+            marksismleninism={
             }
             goverment={
             }
@@ -23,8 +21,8 @@ ideologies = {
         faction_impact_on_world_tension=0.1
         ai_neutrality=yes
         rules = {
-            can_force_goverment=yes
-            can_send_volounteers=yes
+            can_force_government=yes
+            can_send_volunteers=yes
             can_puppet=yes
         }
         modifiers={

@@ -1,4 +1,4 @@
-capital = 3707 
+capital = 53
 oob = "FPL_1953"
 
 set_research_slots = 1

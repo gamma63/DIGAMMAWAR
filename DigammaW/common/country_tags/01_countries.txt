@@ -1,27 +1,3 @@
-<<<<<<< HEAD
-KAZ = {
-    color = rgb { 77 220 247}
-    color_ui = rgb { 68 127 244 }
-}
-CAN = {
-    color = rgb { 255, 0, 43}
-    color_ui = rgb { 244, 68, 103 }
-}
-FEM = {
-    color = rgb { 128, 0, 1}
-    color_ui = rgb { 128, 0, 1 }
-}
-FPL = {
-    color = rgb { 128, 0, 1}
-    color_ui = rgb { 128, 0, 1 }
-}
-FPX = {
-    color = rgb { 128, 0, 1}
-    color_ui = rgb { 128, 0, 1 }
-}
-=======
-KAZ = {
-    color = rgb { 77 220 247}
-    color_ui = rgb { 68 127 244 }
-}
->>>>>>> 70290849d1910074d4ec43a4eb6437dd17698412
+FEM = "countries/FEM.txt"
+FPL = "countries/FPL.txt"
+FPX = "countries/FPX.txt"

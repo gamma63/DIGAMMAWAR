@@ -1,5 +1,5 @@
 characters = {
-    KAZ_antonin_zapotocky = {
+    KAZ_zhumabai_shayakhmetov = {
         name = KAZ_Zhumabai_Shayakhmetov
         portraits = {
             civilian = {

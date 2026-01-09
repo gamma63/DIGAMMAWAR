@@ -1,0 +1,25 @@
+bookmarks = {
+    bookmark = {
+        name = "WUTHERING_HEIGHTS_NAME"
+        desc = "WUTHERING_HEIGHTS_DESC"
+        date = 1953.3.5.12
+        picture = "GFX_select_date_1953"
+        
+        default_country = "..." 
+        default = no
+
+        KAZ = {
+            history = "KAZ_WUTHERING_HEIGHTS_DESC"
+            ideology = communism
+            ideas = { }
+        }
+
+        CAN = {
+            minor = yes  
+        }
+        
+        FEM = {
+            minor = yes
+        }
+    }
+}
